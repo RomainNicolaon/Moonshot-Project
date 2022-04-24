@@ -1,5 +1,5 @@
 # Moonshot-Project
-##  My MoonshotPproject which is due for my studies at @algosup
+##  My MoonshotPproject which is due for my studies at [Algosup](https://github.com/algosup)
 
 ---
 ## Table of Contents
@@ -22,6 +22,6 @@ Of course, I am not a video game developer yet, but in additiopn to be a program
 
 # 3. How am I going to solve that problem ?
 
-In first step, I will learn how to make an AI during my studies at @algosup, after that I will make my AI and teach it to make a good, interesting and exciting video game story.
+In first step, I will learn how to make an AI during my studies at [Algosup](https://github.com/algosup), after that I will make my AI and teach it to make a good, interesting and exciting video game story.
 
 After that, I will make a video game using my AI and publish it.
